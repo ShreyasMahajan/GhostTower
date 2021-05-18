@@ -35,7 +35,7 @@ function setup(){
   
   invisiblegr = createSprite(0,450,500,0);
   invisiblegr.visible = false;
-  //sound.play();
+  sound.play();
   
   doorgroup = new Group();
   climbergroup = new Group();
